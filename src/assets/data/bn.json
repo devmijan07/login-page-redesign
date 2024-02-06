@@ -1,0 +1,506 @@
+{
+  "Security": "সিকিউরিটি",
+  "Accounts": "অ্যাকাউন্টস",
+  "HRM": "এইচআরএম",
+  "Payroll": "পে-রোল",
+  "Provident Fund": "প্রভিডেন্ট ফান্ড",
+  "Inventory": "ইনভেন্টরি",
+  "Fixed Assets": "স্থায়ী সম্পদ",
+  "Loan": "লোন",
+  "SMS & Email": "এসএমএস ও ইমেইল",
+  "Vehicle": "যানবাহন",
+  "Configurations": "কনফিগারেশন",
+  "Settings": "সেটিংস",
+  "Feature": "ফিচার",
+  "Module": "মডিউল",
+  "Sub Module": "সাব-মডিউল",
+  "Role": "রোল",
+  "User": "ইউজার",
+  "Dashboard": "ড্যাশবোর্ড",
+  "Employee": "কর্মচারী",
+  "common": {
+      "mra": "মাইক্রোক্রেডিট রেগুলেটরী অথরিটি",
+      "copyrighttext": "মাইক্রোক্রেডিট রেগুলেটরী অথরিটি (এমআরএ), বাংলাদেশ",
+      "appname": "অফিস ম্যানেজমেন্ট সিস্টেম",
+      "password-requirements": "পাসওয়ার্ড ৮ ডিজিটের হতে হবে এবং পাসওয়ার্ড এ ছোট হাতের অক্ষর, বড় হাতের অক্ষর, সংখ্যা এবং চিহ্ন থাকা জরুরি ।",
+      "search-placeholder": "সার্চ করুন"
+  },
+  "common-button": {
+      "submit": "সাবমিট",
+      "cancel": "বাতিল",
+      "go-back": "ফিরে যান",
+      "reset": "রিসেট",
+      "next": "পরবর্তী",
+      "previous": "পূর্ববর্তী",
+      "add": "যোগ করুন",
+      "save": "সংরক্ষণ করুন",
+      "password-confirm-label": "পাসওয়ার্ড লিখুন",
+      "edit-mode-on": "এডিট মোড চালু করুন",
+      "edit-mode-off": "এডিট মোড বন্ধ করুন",
+      "yes": "হ্যাঁ",
+      "no": "না",
+      "close": "বন্ধ করুন"
+  },
+  "header": {
+      "profile-menu": {
+          "user-profile": "ইউজার প্রোফাইল",
+          "settings": "সেটিংস",
+          "guidelines": "নির্দেশিকা",
+          "logout": "লগ আউট"
+      },
+      "privacy": "প্রাইভেসি পলিসি",
+      "support": "সাপোর্ট"
+  },
+  "sidebar": {
+      "button": {
+          "log-out": "লগ আউট"
+      }
+  },
+  "sign_in": {
+      "text": {
+      "email": "ইমেইল",
+      "user_id": "ইউজার আইডি",
+      "password": "পাসওয়ার্ড",
+      "signin": "লগ ইন",
+      "sign-up-1": "অ্যাকাউন্ট নেই?",
+      "sign-up-2": "রেজিস্ট্রেশন করুন",
+      "forgot_password": "পাসওয়ার্ড ভুলে গেছেন?",
+      "email-required": "ইউজার আইডি প্রয়োজন",
+      "email-not-valid": "অনুগ্রহ করে সঠিক ই-মেইল ঠিকানা লিখুন",
+      "password-required": "পাসওয়ার্ড প্রয়োজন",
+      "remember_me": "আমাকে লগ ইন রাখুন",
+      "welcomeback": "আবার স্বাগতম! এখানে আপনার তথ্য লিখুন।",
+      "poweredby": "পাওয়ার্ড বাই",
+      "doer": "দুয়ার সার্ভিসেস পিএলসি"
+      }
+  },
+  "forgot_password": {
+      "text": {
+      "email": "ইমেইল এড্রেস",
+      "email-required": "ইমেইল এড্রেস প্রয়োজন",
+      "email-not-valid": "অনুগ্রহ করে সঠিক ইমেইল এড্রেস লিখুন",
+      "userid": "ইউজার আইডি",
+      "useridrequired": "ইউজার আইডি প্রয়োজন",
+      "userid-not-valid": "অনুগ্রহ করে সঠিক ইউজার আইডি লিখুন",
+      "title": "পাসওয়ার্ড ভুলে গেছেন",
+      "description": "পাসওয়ার্ড রিসেট করতে আপনার ইউজার আইডি টি লিখুন।"
+      }
+  },
+  "new-password": {
+      "text": {
+      "password": "পাসওয়ার্ড",
+      "password-required": "পাসওয়ার্ড প্রয়োজন",
+      "confirm-password": "পুনরায় পাসওয়ার্ড",
+      "confirm-password-required": "পুনরায় পাসওয়ার্ড প্রয়োজন",
+      "confirm-password-not-matched": "পাসওয়ার্ড মিলেনি",
+      "title": "নতুন পাসওয়ার্ড সেট করুন",
+      "description": "আপনি কি ইতোমধ্যে পাসওয়ার্ড রিসেট করেছেন ?",
+      "sign-in": "লগ ইন"
+      }
+  },
+  "resetpassword": {
+      "text": {
+          "oldpassword": "পুরাতন পাসওয়ার্ড",
+          "oldpasswordrequired": "পুরাতন পাসওয়ার্ড প্রয়োজন"
+      }
+
+  },
+  "two-steps": {
+      "verify-otp": "ওটিপি ভ্যারিফিকেশন সম্পন্ন করুন",
+      "email": "আপনার ই-মেইলে ",
+      "otp": " একটি ওটিপি পাঠানো হয়েছে।",
+      "resend": "রিসেন্ড ওটিপি",
+      "cancel": "বাতিল",
+      "confirm": "নিশ্চিত করুন"
+  },
+  "auth-success": {
+      "congrats": "অভিনন্দন",
+      "success": "প্রক্রিয়াটি সফলভাবে সম্পূর্ণ হয়েছে।",
+      "user-id": "ইউজার আইডি",
+      "login-link": "লগ ইন করতে এখানে ক্লিক করুন"
+  },
+  "table": {
+      "header": {
+          "createdon":"তৈরির তারিখ",
+          "status": "স্ট্যাটাস",
+          "view": "ভিউ",
+          "actions": "অ্যাকশন",
+          "download": "ডাউনলোড",
+          "role-name-en": "রোলের নাম (ইংরেজিতে)",
+          "role-name-bn": "রোলের নাম (বাংলায়)",
+          "role-description": "রোলের বিস্তারিত",
+          "name": "নাম",
+          "user-id": "ইউজার আইডি"
+      },
+      "title":{
+          "role-list": "রোলের তালিকা",
+          "user-list": "ইউজার তালিকা"
+      },
+      "action":{
+          "view": "বিস্তারিত দেখুন",
+          "edit": "সম্পাদনা করুন"
+      }
+  },
+  "user-list": {
+      "title": "ইউজার লিস্ট",
+      "add-user": "নতুন ইউজার অ্যাড করুন",
+      "user-details": "ইউজারের বিবরণ",
+      "edit-user": "এডিট ইউজার",
+      "filter-placeholder": "ইউজার সার্চ করুন",
+      "table": {
+          "header": {
+              "status": "স্ট্যাটাস",
+              "name": "নাম",
+              "user-id": "ইউজার আইডি",
+              "role": "রোল"
+          }
+      },
+      "form": {
+      "type": {
+          "label": "কর্মচারীর ধরণ",
+          "placeholder": "কর্মচারীর ধরণ নির্বাচন করুন",
+          "required-error": "কর্মচারীর ধরণ প্রয়োজন"
+      },
+      "name": {
+          "label": "নাম",
+          "placeholder": "নাম লিখুন",
+          "required-error": "নাম প্রয়োজন"
+      },
+      "email": {
+          "label": "ই-মেইল",
+          "placeholder": "ই-মেইল  লিখুন",
+          "required-error": "ইমেইল প্রয়োজন",
+          "invalid-error": "অনুগ্রহ করে সঠিক ই-মেইল ঠিকানা লিখুন"
+      },
+      "mobile-number": {
+          "label": "মোবাইল নাম্বার",
+          "placeholder": "মোবাইল নাম্বার লিখুন",
+          "required-error": "মোবাইল নাম্বার প্রয়োজন",
+          "invalid-error": "অনুগ্রহ করে সঠিক মোবাইল নাম্বার লিখুন"
+      },
+      "role": {
+          "label": "রোল",
+          "placeholder": "রোল নির্বাচন করুন",
+          "required-error": "রোল প্রয়োজন"
+      },
+      "status": {
+          "label": "স্ট্যাটাস",
+          "placeholder": "স্ট্যাটাস নির্বাচন করুন",
+          "required-error": "স্ট্যাটাস প্রয়োজন"
+      },
+      "password": {
+          "label": "নতুন পাসওয়ার্ড",
+          "placeholder": "নতুন পাসওয়ার্ড লিখুন",
+          "required-error": "পাসওয়ার্ড প্রয়োজন"
+      },
+      "retype-password": {
+          "label": "কনফার্ম পাসওয়ার্ড",
+          "placeholder": "পাসওয়ার্ড লিখুন",
+          "required-error": "কনফার্ম পাসওয়ার্ড প্রয়োজন",
+          "invalid-error": "পাসওয়ার্ড মিলেনি"
+      },
+      "user-id":{
+          "label": "ইউজার আইডি",
+          "placeholder": "ইউজার আইডি লিখুন",
+          "required-error": "ইউজার আইডি প্রয়োজন"
+      }
+      },
+      "confirm-modal": "আপনি কি নতুন ইউজার তৈরি করতে চান ?"
+  },
+  "module-list": {
+      "title": "মডিউল লিস্ট",
+      "add-module": "নতুন মডিউল অ্যাড করুন",
+      "module-tree": "মডিউল ট্রি দেখুন",
+      "module-details": "মডিউলের বিবরণ",
+      "edit-module": "এডিট মডিউল",
+      "filter-placeholder": "মডিউল সার্চ করুন",
+      "table": {
+          "header": {
+              "name": "নাম",
+              "short-name": "সংক্ষিপ্ত নাম",
+              "status": "স্ট্যাটাস"
+          }
+      },
+      "form": {
+      "required-error-message": "অনুগ্রহ করে লিখুন",
+      "invalid-error-message": "তথ্যটি সঠিক নয়",
+          "name": {
+              "label": "নাম",
+              "placeholder": "নাম লিখুন"
+          },
+          "name-bn": {
+              "label": "নাম (বাংলায়)",
+              "placeholder": "নাম লিখুন (বাংলায়)"
+          },
+          "short-name": {
+              "label": "সংক্ষিপ্ত নাম",
+              "placeholder": "সংক্ষিপ্ত নাম লিখুন"
+          },
+          "short-name-bn": {
+              "label": "সংক্ষিপ্ত নাম (বাংলায়)",
+              "placeholder": "সংক্ষিপ্ত নাম লিখুন (বাংলায়)"
+          },
+          "table-prefix": {
+              "label": "টেবিল প্রেফিক্স",
+              "placeholder": "টেবিল প্রেফিক্স লিখুন"
+          },
+          "icon": {
+              "label": "আইকনের লিংক",
+              "placeholder": "আইকনের লিংক লিখুন"
+          },
+          "status": {
+              "label": "স্ট্যাটাস",
+              "placeholder": "স্ট্যাটাস নির্বাচন করুন"
+          }
+      },
+      "confirm-modal": "আপনি কি নতুন মডিউল তৈরি করতে চান ?"
+  },
+  "submodule-list": {
+      "title": "সাব মডিউল লিস্ট",
+      "add-submodule": "নতুন সাব মডিউল অ্যাড করুন",
+      "submodule-details": "সাব মডিউলের বিবরণ",
+      "edit-submodule": "এডিট সাব মডিউল",
+      "filter-placeholder": "সাব মডিউল সার্চ করুন",
+      "table": {
+      "header": {
+          "name": "নাম",
+          "module": "মডিউল",
+          "module-short": "মডিউল (সংক্ষিপ্ত নাম)",
+          "status": "স্ট্যাটাস"
+      }
+      },
+      "form": {
+      "required-error-message": "অনুগ্রহ করে লিখুন",
+      "invalid-error-message": "তথ্যটি সঠিক নয়",
+          "name": {
+              "label": "নাম",
+              "placeholder": "নাম লিখুন"
+          },
+          "name-bn": {
+              "label": "নাম (বাংলায়)",
+              "placeholder": "নাম লিখুন (বাংলায়)"
+          },
+          "icon": {
+              "label": "আইকনের লিংক",
+              "placeholder": "আইকনের লিংক লিখুন"
+          },
+          "status": {
+              "label": "স্ট্যাটাস",
+              "placeholder": "স্ট্যাটাস নির্বাচন করুন"
+          },
+          "module": {
+              "label": "মডিউল",
+              "placeholder": "মডিউল নির্বাচন করুন"
+          }
+      },
+      "confirm-modal": "আপনি কি নতুন সাব মডিউল তৈরি করতে চান ?"
+  },
+  "feature-list": {
+      "title": "ফিচার লিস্ট",
+      "add-feature": "নতুন ফিচার অ্যাড করুন",
+      "feature-details": "ফিচারের বিবরণ",
+      "edit-feature": "এডিট ফিচার",
+      "filter-placeholder": "ফিচার সার্চ করুন",
+      "table": {
+      "header": {
+          "name": "নাম",
+          "description": "বিবরণ",
+          "submodule": "সাব মডিউল",
+          "module": "মডিউল",
+          "status": "স্ট্যাটাস"
+      }
+      },
+      "form": {
+      "required-error-message": "অনুগ্রহ করে লিখুন",
+      "invalid-error-message": "তথ্যটি সঠিক নয়",
+      "name": {
+          "label": "নাম",
+          "placeholder": "নাম লিখুন"
+      },
+      "name-bn": {
+          "label": "নাম (বাংলায়)",
+          "placeholder": "নাম লিখুন (বাংলায়)"
+      },
+      "description": {
+          "label": "বিবরণ",
+          "placeholder": "বিবরণ লিখুন"
+      },
+      "description-bn": {
+          "label": "বিবরণ (বাংলায়)",
+          "placeholder": "বিবরণ লিখুন (বাংলায়)"
+      },
+      "feature-config": {
+          "label": "ফিচার সেটিংস",
+          "children": "ফিচারের অ্যাকশান লিখুন",
+          "title": {
+              "label": "টাইটেল",
+              "placeholder": "টাইটেল লিখুন"
+          },
+          "route": {
+              "label": "লিংক",
+              "placeholder": "লিংক লিখুন"
+          }
+      },
+      "status": {
+          "label": "স্ট্যাটাস",
+          "placeholder": "স্ট্যাটাস নির্বাচন করুন"
+      },
+      "icon": {
+          "label": "আইকনের লিংক",
+          "placeholder": "আইকনের লিংক লিখুন"
+      },
+      "module": {
+          "label": "মডিউল",
+          "placeholder": "মডিউল নির্বাচন করুন"
+      },
+      "sub-module": {
+          "label": "সাব মডিউল",
+          "placeholder": "সাব মডিউল নির্বাচন করুন"
+      },
+      "is-sub-module": {
+          "label": "এটা কি সাব মডিউল ?"
+      }
+      },
+      "confirm-modal": "আপনি কি নতুন ফিচার তৈরি করতে চান ?"
+  },
+  "role-list": {
+      "title": "রোল লিস্ট",
+      "add-role": "নতুন রোল যুক্ত করুন",
+      "role-details": "রোলের বিবরণ",
+      "edit-role": "এডিট রোল",
+      "created-by": "তৈরি করেছেন",
+      "created-on": "তৈরির তারিখ",
+      "default-module": "ডিফল্ট মডিউল",
+      "module-access": "মডিউল এক্সেস",
+      "form": {
+      "role-name-en": {
+          "label": "রোলের নাম (ইংরেজিতে)",
+          "placeholder": "রোলের নাম লিখুন (ইংরেজিতে)"
+      },
+      "role-name-bn": {
+          "label": "রোলের নাম (বাংলায়)",
+          "placeholder": "রোলের নাম লিখুন (বাংলায়)"
+      },
+      "role-description": {
+          "label": "রোলের বিস্তারিত",
+          "placeholder": "রোলের বিস্তারিত লিখুন"
+      },
+      "submit": "সাবমিট",
+      "date": "তারিখ",
+      "address": "ঠিকানা",
+      "nid": "জাতীয় পরিচয়পত্র নম্বর",
+      "faxNo": "ফ্যাক্স নং",
+      "mobile": "মোবাইল নাম্বার"
+      },
+      "confirmation-modal": {
+      "modal-title": "আপনি কি নতুন রোল তৈরি করতে চান ?",
+      "modal-content": "দয়া করে রোলের সকল তথ্য সঠিক আছে কিনা যাচাই করে দেখুন।",
+      "confirm-text": "নিশ্চিত করুন",
+      "cancel-text": "বাতিল"
+      }
+  },
+  "profile": {
+      "edit-profile": "এডিট প্রোফাইল",
+      "change-password": "পাসওয়ার্ড পরিবর্তন",
+      "settings": "সেটিংস",
+      "bin": "বিআইএন",
+      "message": {
+      "applicant": "আবেদনকারী হিসাবে লগ ইন করেছেন",
+      "receiver": "রিসিভার হিসাবে লগ ইন করেছেন",
+      "approver": "অনুমোদনকারী হিসাবে লগ ইন করেছেন",
+      "admin": "অ্যাডমিন হিসাবে লগ ইন করেছেন"
+      },
+      "fields": {
+      "required": "প্রয়োজন",
+      "invalid": "সঠিক নয়",
+      "name": {
+          "label": "নাম",
+          "placeholder": "নাম লিখুন"
+      },
+      "email": {
+          "label": "ই-মেইল",
+          "placeholder": "আপনার ই-মেইল লিখুন"
+      },
+      "user-id": {
+          "label": "ইউজার আইডি",
+          "placeholder": "ইউজার আইডি লিখুন"
+      },
+      "employee-id": {
+          "label": "কর্মচারী আইডি",
+          "placeholder": "কর্মচারী আইডি লিখুন"
+      },
+      "mobile-no": {
+          "label": "মোবাইল নম্বর",
+          "placeholder": "মোবাইল নম্বর লিখুন"
+      },
+      "phone": {
+          "label": "টেলিফোন নম্বর",
+          "placeholder": "টেলিফোন নম্বর লিখুন"
+      },
+      "nid": {
+          "label": "জাতীয় পরিচয়পত্র নম্বর",
+          "placeholder": "জাতীয় পরিচয়পত্র নম্বর লিখুন"
+      },
+      "gender": {
+          "label": "লিঙ্গ",
+          "placeholder": "লিঙ্গ নির্বাচন করুন"
+      },
+      "blood-group": {
+          "label": "রক্তের গ্রুপ",
+          "placeholder": "রক্তের গ্রুপ নির্বাচন করুন"
+      },
+      "father-name": {
+          "label": "পিতার নাম",
+          "placeholder": "পিতার নাম লিখুন"
+      },
+      "mother-name": {
+          "label": "মাতার নাম",
+          "placeholder": "মাতার নাম লিখুন"
+      },
+      "spouse-name": {
+          "label": "স্বামী/স্ত্রীর নাম",
+          "placeholder": "স্বামী/স্ত্রীর নাম লিখুন"
+      },
+      "date-of-birth": {
+          "label": "জন্ম তারিখ",
+          "placeholder": "জন্ম তারিখ নির্বাচন করুন"
+      },
+      "present-address": {
+          "label": "বর্তমান ঠিকানা",
+          "placeholder": "বর্তমান ঠিকানা লিখুন"
+      },
+      "permanent-address": {
+          "label": "স্থায়ী ঠিকানা",
+          "placeholder": "স্থায়ী ঠিকানা লিখুন"
+      }
+      },
+      "action": {
+      "change-photo": "ছবি পরিবর্তন করুন",
+      "change-modal-title": "আপনি কি পাসওয়ার্ড পরিবর্তন করতে চান ?"
+      }
+  },
+  "filter": {
+      "search-placeholder": "পণ্যের নামের উপর সার্চ করুন",
+      "user-placeholder": "ইউজার নামের উপর সার্চ করুন",
+      "status-label": "স্ট্যাটাস নির্বাচন করুন",
+      "role-label": "রোল নির্বাচন করুন",
+      "reset": "রিসেট",
+      "reload": "রিফ্রেশ"
+  },
+  "notification": {
+      "heading": "নোটিফিকেশন",
+      "message": "কোন নোটিফিকেশন নেই",
+      "see-all": "সব নোটিফিকেশন দেখুন",
+      "mark-as-read": "সব নোটিফিকেশন পঠিত হিসেবে চিহ্নিত করুন",
+      "all-notifications": "সব নোটিফিকেশন"
+  },
+  "404": {
+      "title": "404 error",
+      "headline": "Page not found.",
+      "text": "Sorry, we couldn’t find the page you’re looking for.",
+      "button": {
+      "back-to-start": "Go back home"
+      }
+  }
+}
+
